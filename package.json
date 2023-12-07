@@ -2,13 +2,12 @@
   "name": "@appstack-io/exceptions",
   "version": "0.1.1",
   "description": "",
-  "author": "",
-  "private": false,
-  "license": "UNLICENSED",
-  "repository": "https://github.com/appstack-io/exceptions",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+  "author": {
+    "name": "Or Gal",
+    "email": "orrgal@gmail.com"
   },
+  "private": false,
+  "repository": "https://github.com/appstack-io/exceptions",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
