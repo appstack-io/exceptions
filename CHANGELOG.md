@@ -2,6 +2,13 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.1.2 - 2023-12-07
+#### Bug Fixes
+- npm - (877a6fb) - orgal
+#### Miscellaneous Chores
+- bump version to 0.1.1 - (f4e82aa) - GitHub Action
+- - -
+
 ## 0.1.1 - 2023-12-07
 #### Bug Fixes
 - rpcPermissionDeniedException.ts - (88f8824) - orgal
