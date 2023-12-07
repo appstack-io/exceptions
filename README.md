@@ -1,1 +1,1 @@
-# exceptions
+# @appstack-io/exceptions
